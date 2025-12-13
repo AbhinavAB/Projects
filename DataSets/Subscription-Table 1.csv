@@ -1,0 +1,6 @@
+sub_ref_id,user_ref_id,plan_code,type,event,expiry_date
+1,1,1,trail,new,2026-01-13
+1,1,2,paid,new,2026-12-13
+1,1,2,paid,renew,2027-12-13
+2,2,2,paid,new,2026-01-13
+2,2,2,paid,renew,2027-12-13
