@@ -1,0 +1,6 @@
+sub_ref_id,user_ref_id,plan_code,price,type,expiry_date,transaction_date
+1,1,1,0,trail,2026-01-13,2025-12-13
+1,1,2,50,paid,2026-12-13,2025-12-13
+1,1,2,50,paid,2027-12-13,2025-12-13
+2,2,2,50,paid,2026-12-13,2025-12-13
+2,2,2,50,paid,2027-12-13,2025-12-13
